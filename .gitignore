@@ -1,0 +1,38 @@
+# --- Python (backend, scanner) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+*.db
+*.sqlite3
+
+# --- Node / Next.js (frontend) ---
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+
+# --- Env & secrets ---
+.env
+.env.local
+*.pem
+*.key
+
+# --- Docker ---
+*.log
+
+# --- Screenshots hasil scanner (jangan ikut ke-commit) ---
+scanner/screenshots/*
+!scanner/screenshots/.gitkeep
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
