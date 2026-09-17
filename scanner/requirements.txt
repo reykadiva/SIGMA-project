@@ -3,3 +3,4 @@ python-nmap
 sslyze
 python-dotenv
 pytest
+webtech
