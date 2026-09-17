@@ -36,3 +36,5 @@ scanner/screenshots/*.jpg
 .idea/
 .vscode/
 *.swp
+scanner/results/*.json
+!scanner/results/.gitkeep
