@@ -4,3 +4,6 @@ sslyze
 python-dotenv
 pytest
 webtech
+shodan
+vt-py
+playwright

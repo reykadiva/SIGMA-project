@@ -28,8 +28,8 @@ build/
 *.log
 
 # --- Screenshots hasil scanner (jangan ikut ke-commit) ---
-scanner/screenshots/*
-!scanner/screenshots/.gitkeep
+scanner/screenshots/*.png
+scanner/screenshots/*.jpg
 
 # --- OS / editor ---
 .DS_Store
